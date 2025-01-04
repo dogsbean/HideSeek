@@ -1,0 +1,13 @@
+name: HideAndSeek
+version: 1.0
+main: com.example.hideandseek.HideAndSeek
+api-version: 1.8.8
+commands:
+  hideandseek:
+    description: 술래잡기 게임 명령어
+    usage: /<command> [start|end]
+    aliases: [hs]
+permissions:
+  hideandseek.admin:
+    description: 술래잡기 게임 관리자 권한
+    default: op
