@@ -21,3 +21,8 @@
 - Manage the game timer
 - End the game when a player leaves
 - Permission system
+
+## To Do
+
+- Add spectate feature so hiders can spectate the game after caught
+- Add heartbeat sound if seeker is near the hiders
